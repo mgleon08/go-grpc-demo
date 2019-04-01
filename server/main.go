@@ -7,7 +7,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/mgleon08/demo_proto/pb"
+	"github.com/mgleon08/go-grpc-demo/pb"
 )
 
 const (
